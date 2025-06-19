@@ -4,36 +4,46 @@
 ## 👥 Big Companies Worldwide are Using AutoMQ
 > Here are some of our major customers worldwide using AutoMQ.
 
-<a href="https://www.automq.com">
-    <img alt="image" src="https://github.com/user-attachments/assets/05b07ae1-c532-47ec-b2b5-c6ae5e477fb1" width="180" />
+<a href="https://www.automq.com" target="_blank">
+    <img alt="image" src="https://github.com/user-attachments/assets/dc32f584-fa62-4805-9cef-bad9902b7473" width="180" />
 </a> 
-<a href="https://www.automq.com">
-    <img alt="image" src="https://github.com/user-attachments/assets/e732c585-9920-4bd1-89c2-b241b9592ff8" width="180" />
+<a href="https://www.automq.com" target="_blank">
+    <img alt="image" src="https://github.com/user-attachments/assets/fa680ea0-a078-419d-8ccd-01595732cfdf" width="180" />
 </a> 
-<a href="https://www.automq.com">
-    <img alt="image" src="https://github.com/user-attachments/assets/f786d24c-bdb6-42ad-9dea-7b01f036f019" width="180" />
+<a href="https://www.automq.com" target="_blank">
+    <img alt="image" src="https://github.com/user-attachments/assets/7e6df0f2-e79d-4d97-a4fc-fb50774fd2dd" width="180" />
 </a> 
-<a href="https://www.automq.com">
-    <img alt="image" src="https://github.com/user-attachments/assets/a12356d8-05d1-4b75-9405-908e1eadbd5f" width="180" />
+<a href="https://www.automq.com" target="_blank">
+    <img alt="image" src="https://github.com/user-attachments/assets/f0b4870e-58e5-4692-a706-48d51dfb6302" width="180" />
 </a> 
-<a href="https://www.automq.com">
-    <img alt="image" src="https://github.com/user-attachments/assets/07402c71-9eb7-4881-a167-762160ed9c5a" width="180" />
+<a href="https://www.automq.com" target="_blank">
+    <img alt="image" src="https://github.com/user-attachments/assets/a4d46a21-9b9d-4a95-88fd-e123b8f35063" width="180" />
 </a> 
-<a href="https://www.automq.com">
-    <img alt="image" src="https://github.com/user-attachments/assets/febc042a-6c6e-48bc-a0c3-1e68a9da38d7" width="180" />
+<a href="https://www.automq.com" target="_blank">
+    <img alt="image" src="https://github.com/user-attachments/assets/743dff96-f18c-4f2a-b9fe-5e90c1d03beb" width="180" />
 </a> 
-<a href="https://www.automq.com">
-    <img alt="image" src="https://github.com/user-attachments/assets/a57e7b82-fd0e-4bc6-9bbc-6f294d86f78c" width="180" />
+<a href="https://www.automq.com" target="_blank">
+    <img alt="image" src="https://github.com/user-attachments/assets/471732df-bacd-4041-ad99-024306167f60" width="180" />
 </a> 
-<a href="https://www.automq.com">
-    <img alt="image" src="https://github.com/user-attachments/assets/2952ac4b-f7f2-4204-8a5a-5c044dc57182" width="180" />
+<a href="https://www.automq.com" target="_blank">
+    <img alt="image" src="https://github.com/user-attachments/assets/b7fdcda3-7670-44db-9311-6d1dd45e134b" width="180" />
 </a> 
-<a href="https://www.automq.com">
-    <img alt="image" src="https://github.com/user-attachments/assets/51c701f8-dc5b-49f0-a32a-5d1fd9d38ae6" width="180" />
+<a href="https://www.automq.com" target="_blank">
+    <img alt="image" src="https://github.com/user-attachments/assets/4fbad4c3-d365-49dc-8dfa-ca4060a70b1a" width="180" />
 </a> 
-<a href="https://www.automq.com">
-    <img alt="image" src="https://github.com/user-attachments/assets/23d510ff-7c39-4e12-81df-84cf12ed0a15" width="180" />
+<a href="https://www.automq.com" target="_blank">
+    <img alt="image" src="https://github.com/user-attachments/assets/ff7600fa-0776-4879-a3fd-3ad5d898e41c" width="180" />
 </a> 
+<a href="https://www.automq.com" target="_blank">
+    <img alt="image" src="https://github.com/user-attachments/assets/1a58f96e-df47-4a7e-b0fe-a0d51ea93586" width="180" />
+</a> 
+
+
+
+
+
+
+
 
 
 
