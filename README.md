@@ -10,10 +10,10 @@
 <!-- markdownlint-disable -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 320px;">
 <a href="https://www.automq.com">
-    <img alt="image" src="https://github.com/user-attachments/assets/2f2822d7-858b-48fc-975b-4ebe1f596971" width="150" height="150"/>
+    <img alt="image" src="https://github.com/user-attachments/assets/2f2822d7-858b-48fc-975b-4ebe1f596971" width="150" />
 </a> 
 <a href="https://www.automq.com">
-    <img alt="image" src="https://github.com/user-attachments/assets/2f2822d7-858b-48fc-975b-4ebe1f596971" width="150" height="150"/>
+    <img alt="image" src="https://github.com/user-attachments/assets/2f2822d7-858b-48fc-975b-4ebe1f596971" width="150" />
 </a> 
 </div>
 <!-- markdownlint-restore -->
