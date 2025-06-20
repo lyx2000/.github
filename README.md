@@ -5,7 +5,7 @@
 > Here are some of our major customers worldwide using AutoMQ.
 
 <a href="https://www.youtube.com/watch?v=IB8sh639Rsg" target="_blank">
-    <img alt="Grab" src="https://github.com/user-attachments/assets/dc32f584-fa62-4805-9cef-bad9902b7473" width="160" />
+    <img alt="Grab" src="https://github.com/user-attachments/assets/dc32f584-fa62-4805-9cef-bad9902b7473" style="max-width: 100%; width: 200px; height: auto;" />
 </a> 
 <a href="https://www.automq.com/blog/jdcom-automq-cubefs-trillion-scale-kafka-messaging" target="_blank">
     <img alt="JD" src="https://github.com/user-attachments/assets/fa680ea0-a078-419d-8ccd-01595732cfdf" width="160" />
