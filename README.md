@@ -35,6 +35,7 @@
     <img alt="BambuLab" src="https://github.com/user-attachments/assets/1a58f96e-df47-4a7e-b0fe-a0d51ea93586" width="18%" />
 </a> 
 
+<div style="width: 180px; background-color: white;"></div>
 
 
 
